@@ -36,7 +36,8 @@ __Strengthen Device Portfolio & Financing Options:__ Offer a wider range of devi
 __Customer Feedback & Engagement:__ Conduct regular surveys and focus groups to gather insights into customer preferences. Use this data to enhance service quality, address concerns proactively, and foster brand loyalty.
 
 ## Data Visualization
-[To view dashboard,click here](https://i.postimg.cc/8cVgJKC4/Screenshot-2025-03-28-141144.png)
+<img width="591" height="279" alt="Screenshot 2025-03-28 141144" src="https://github.com/user-attachments/assets/fb0c9b0f-45cc-4976-9148-4ea240bb8e40" />
+
 
 
 
